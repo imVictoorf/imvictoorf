@@ -94,7 +94,7 @@ main{
 .maximo {
     grid-column: 7/-1;
     place-self: start end;
-    height: 10vh;
+    height: 12vh;
     width: 25vw;
     background-color: var(--secondary-color);
     color: gold;
